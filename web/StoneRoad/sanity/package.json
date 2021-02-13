@@ -1,0 +1,34 @@
+{
+  "name": "stoneroadsanity",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "package.json",
+  "author": "Pedro Sanches <p.gomez.almeida@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "sanity start",
+    "build": "sanity build",
+    "graphql": "sanity graphql deploy"
+  },
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "@sanity/base": "^2.3.6",
+    "@sanity/components": "^2.2.6",
+    "@sanity/core": "^2.3.3",
+    "@sanity/dashboard": "^2.2.6",
+    "@sanity/default-layout": "^2.3.6",
+    "@sanity/default-login": "^2.2.6",
+    "@sanity/desk-tool": "^2.3.6",
+    "@sanity/vision": "^2.2.6",
+    "prop-types": "^15.7",
+    "react": "^17.0",
+    "react-dom": "^17.0",
+    "react-icons": "^4.1.0",
+    "sanity-plugin-google-analytics": "^0.2.6",
+    "sanity-plugin-media": "^1.0.1"
+  },
+  "devDependencies": {}
+}
