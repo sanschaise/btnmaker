@@ -19,7 +19,7 @@
     "framer-motion": "^1.8.4",
     "html-to-image": "^0.1.1",
     "ios-inner-height": "^1.1.1",
-    "next": "^9.2.1",
+    "next": "^11.1.0",
     "next-fonts": "^1.0.3",
     "react": "^16.12.0",
     "react-color": "^2.18.0",
